@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Trabalho WS Mobile</string>
+
+    <string name="nameerror">Informe um nome válido</string>
+    <string name="cpferror">Informe um CPF válido</string>
+    <string name="dtanascimentoerror">Informe a data de nascimento válido</string>
+    <string name="bairroerror">Informe um bairro válido</string>
+    <string name="logradouroerror">Informe um logrador válido</string>
+    <string name="numeroerror">Informe o número do endereço válido</string>
+    <string name="ceperror">Informe um CEP válido</string>
+    <string name="cidadeerror">Informe uma cidade válida</string>
+    <string name="estadoerror">Informe o estado válido</string>
+</resources>
